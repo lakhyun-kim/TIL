@@ -5,3 +5,10 @@
 1. File > Settings(Ctrl + Alt + S)
 2. Keymap
 3. Eclipse 선택 > OK 클릭
+
+# Import 자동 정리는 되는데 추가가 안될 경우
+
+File → Settings → Editor → General → Auto Import
+
+1. Add unambiguous imports on the fly 체크
+2. Optimize imports on the fly 체크
