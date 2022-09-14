@@ -12,3 +12,9 @@ File → Settings → Editor → General → Auto Import
 
 1. Add unambiguous imports on the fly 체크
 2. Optimize imports on the fly 체크
+
+# 변수명에 밑줄 제거하는 방법
+
+Settings → Editor → Color Scheme → Language Defaults → Identifiers → Reassigned local variable
+
+Effects 체크 해제
