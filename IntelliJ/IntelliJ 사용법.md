@@ -18,3 +18,8 @@ File → Settings → Editor → General → Auto Import
 Settings → Editor → Color Scheme → Language Defaults → Identifiers → Reassigned local variable
 
 Effects 체크 해제
+
+# 창 닫기 단축키 변경 
+
+Keymap → close Tab 검색 → Add Keyboard Shortcut → Ctrl + W 추가
+
