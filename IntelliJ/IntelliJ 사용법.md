@@ -23,3 +23,12 @@ Effects 체크 해제
 
 Keymap → close Tab 검색 → Add Keyboard Shortcut → Ctrl + W 추가
 
+# 코드, 리터럴, 주석 밑줄 제거하는 방법(스펠링 맞춤법 무시) 
+
+Settings → Editor → Inspections → Proofreading 검색 → Typo
+
+코드 밑줄 제거 : Process code 체크 해제
+
+리터럴 밑줄 제거 : Process literals 체크 해제
+
+주석 밑줄 제거 : Process comments 체크 해제 
